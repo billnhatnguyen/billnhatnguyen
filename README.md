@@ -2,7 +2,8 @@ const about = {
     name: 'bill nhat nguyen'
     },   
     achievements: {
-        scholarships: Schulich Leaders Scholarship, Anthony Trinca Empowerment Award
+        scholarships: Schulich Leaders Scholarship, 
+        scholarships: Anthony Trinca Empowerment Award, 
         edu: 'york university computer science class of 2029'
     },
     
