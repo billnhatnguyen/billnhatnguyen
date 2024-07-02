@@ -3,7 +3,7 @@ const about = {
     },   
     achievements: {
         scholarships: Schulich Leaders Scholarship, Anthony Trinca Empowerment Award
-        edu: 'york university computer science'
+        edu: 'york university computer science class of 2029'
     },
     
     links: {
