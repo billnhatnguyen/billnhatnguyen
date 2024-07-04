@@ -1,15 +1,14 @@
 Hello! I'm Bill :wave:
 
     const about = {
-    name: 'bill nhat nguyen'
-    },   
+    name: 'bill nhat nguyen',   
     achievements: {
-        scholarships: Schulich Leaders Scholarship, 
-        scholarships: Anthony Trinca Empowerment Award, 
+        scholarships: 'Schulich Leaders Scholarship', 
+        scholarships: 'Anthony Trinca Empowerment Award', 
         edu: 'york university computer science class of 2029'
     },
     links: {
-    
         github: 'https://github.com/billnhatnguyen',
-        linkedin: '(https://www.linkedin.com/in/bill-nguyen-2525a417a/)'
-    },
+        linkedin: 'https://www.linkedin.com/in/bill-nguyen-2525a417a/'
+    }, 
+}
