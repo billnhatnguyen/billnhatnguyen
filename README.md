@@ -12,6 +12,6 @@ const about = {
     },
     links: {
         github: 'https://github.com/billnhatnguyen',
-        linkedin: 'https://www.linkedin.com/in/bill-nguyen-2525a417a/'
+        linkedin: 'https://www.linkedin.com/in/billnhatnguyen/'
     }
 };
