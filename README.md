@@ -8,7 +8,7 @@ const about = {
             'Schulich Leaders Scholarship', 
             'Anthony Trinca Empowerment Award'
         ],
-        edu: 'York University Computer Science Class of 2029'
+        edu: 'York University Computer Science'
     },
     links: {
         github: 'https://github.com/billnhatnguyen',
