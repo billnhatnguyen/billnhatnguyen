@@ -7,6 +7,9 @@ const about = {
         scholarships: [
             'Schulich Leaders Scholarship', 
             'Anthony Trinca Empowerment Award'
+            'Lassonde Entrance Scholarship'
+            'NSERC Undergraduate Summer Research Scholarship'
+            'LURA Undergraduate Fall/Winter Scholarship' 
         ],
         edu: 'York University Computer Science'
     },
